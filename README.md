@@ -1,3 +1,3 @@
 # Sentiment-Analysis
 
-Senitment Analysis on Movie Reviews where the sentiment is either positive or negative.
+Senitment Analysis on Movie Reviews whether the sentiment is either positive or negative.
